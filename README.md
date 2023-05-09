@@ -10,6 +10,9 @@ The application also provides a reset button that clears all the input fields. T
 
 
 
-![image](https://user-images.githubusercontent.com/114822461/236992436-8ad9cd33-12c3-40bf-8980-bdfea3fd350c.png)           ![image](https://user-images.githubusercontent.com/114822461/236992200-a1c1cb7a-1457-4b32-b8f8-c40bf1609329.png)
+![image](https://user-images.githubusercontent.com/114822461/236993009-503f635c-bef1-4b03-8b1d-cf22830bbbd5.png)
+
+![image](https://user-images.githubusercontent.com/114822461/236993195-4c55defb-1603-4cf8-8144-7e56a8f04986.png)
+
 
 
