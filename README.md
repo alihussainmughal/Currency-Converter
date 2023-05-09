@@ -7,3 +7,4 @@ and many more like Requests library to send HTTP requests and receive responses 
 The application boasts several key functionalities, including the display of a comprehensive list of currencies available in a dropdown menu, enabling the user to select their desired currency pair. Additionally, users can input the amount they wish to convert, with the program providing real-time currency conversion rates and returning the converted amount in their selected currency.
 
 The application also provides a reset button that clears all the input fields. The project can be useful for people who need to convert currencies regularly, such as travelers or business professionals.
+![image](https://user-images.githubusercontent.com/114822461/236992002-7c74a419-60c9-497b-a201-fd7331e81298.png)
